@@ -12,4 +12,5 @@ how to use github
 -git add.
 -git commit -m"initial commit"
 -git push -u origin main
+**make sure to save and close or it will show no commit
 
